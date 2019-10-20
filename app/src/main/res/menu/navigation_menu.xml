@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="My Profile"/>
+    <item android:id="@+id/shops"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Shops"/>
+    <item android:id="@+id/canteen"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Canteen"/>
+    <item android:id="@+id/buyItems"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Buy Items"/>
+    <item android:id="@+id/fines"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Fines"/>
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Bot Help"/>
+
+
+</menu>
